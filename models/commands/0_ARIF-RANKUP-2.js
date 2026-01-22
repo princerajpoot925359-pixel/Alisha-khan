@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ARIF-RANKUP-CARD",
   version: "10.1.0-HD-WHITE",
   hasPermssion: 1,
-  credits: "DEEPU BOSS",
+  credits: "ARIF BABU",
   description: "HD VIP Rankup Card (White Text)",
   commandCategory: "LEVEL UP",
   dependencies: {
@@ -139,7 +139,7 @@ module.exports.handleEvent = async function ({ api, event, Currencies, Users }) 
 `🎉 𝗟𝗘𝗩𝗘𝗟 𝗨𝗣! 🎉
 
 😉 ${name} ❤️\n
-आपने Level ${nextLevel} हासिल कर लिया है 🔥`;
+Aapka Level ${nextLevel} Hasil kar diya ha 🔥`;
 
   api.sendMessage(
     {
