@@ -26,7 +26,7 @@ module.exports.config = {
 protectCredits(module.exports.config);
 
 /* 🔑 OPENROUTER API KEY */
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "YAHAN PER APNA API KI ADD KARO ✅";
 
 /* 🧠 SYSTEM PROMPT (HINDI + ENGLISH + URDU + ROMAN URDU) */
 const systemPrompt = `
